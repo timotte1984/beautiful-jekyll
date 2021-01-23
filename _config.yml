@@ -14,12 +14,13 @@ author: Julien Mottet
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Profil: "aboutme"
+  Airtable: "airtable"
   Services: "services"
+  Projets : "projets"
   Clients:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Airtable: "airtable"
+  Bio: "aboutme"
 
 # --- Logo --- #
 
