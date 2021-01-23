@@ -17,9 +17,7 @@ navbar-links:
   Airtable: "airtable"
   Services: "services"
   Projets : "projets"
-  Clients:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Clients: "clients"
   Bio: "aboutme"
 
 # --- Logo --- #
