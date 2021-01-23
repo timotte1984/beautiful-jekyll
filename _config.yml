@@ -14,7 +14,7 @@ author: Julien Mottet
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me : "aboutme"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -49,7 +49,7 @@ social-network-links:
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-  telephone: 0669447048
+   telephone: 0669447048
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
