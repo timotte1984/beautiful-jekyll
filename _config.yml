@@ -16,7 +16,7 @@ author: Julien Mottet
 navbar-links:
   Profil: "aboutme"
   Services: "services"
-  Ressources:
+  Clients:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Airtable: "airtable"
@@ -90,9 +90,9 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#FCB400"
+navbar-col: "#18BFFF"
 navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+navbar-border-col: "#404040"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
