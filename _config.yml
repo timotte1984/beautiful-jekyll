@@ -15,10 +15,10 @@ author: Julien Mottet
 
 navbar-links:
   Profil: "aboutme"
-  Resources:
+  Ressources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Airtable: "airtable"
 
 # --- Logo --- #
 
