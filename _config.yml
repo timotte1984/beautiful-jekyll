@@ -9,13 +9,14 @@
 title: Julien Mottet
 
 # Your name to show in the footer
-author: Some Person
+author: Julien Mottet
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Profil1 : "Profil"
+  Profil : "Profil"
   Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
