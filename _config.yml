@@ -39,22 +39,22 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "julien.mottet.pro@gmail.com"
-  github: timotte1984
-  twitter: JuMottet
-  youtube: UCCEAWvvFjcTuBx5F3izqXxQ
-  linkedin: julienmottet
+#  email: "julien.mottet.pro@gmail.com"
+#  github: timotte1984
+#  twitter: JuMottet
+#  youtube: UCCEAWvvFjcTuBx5F3izqXxQ
+#  linkedin: julienmottet
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-   telephone: 0669447048
+#   telephone: 0669447048
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
-   calendly: julien-mottet-pro
+#   calendly: julien-mottet-pro
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
@@ -89,7 +89,7 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#18BFFF"
+navbar-col: "#FCB400"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
