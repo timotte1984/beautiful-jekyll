@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Julien Mottet
+title: Julien testt
 
 # Your name to show in the footer
 author: Julien Mottet
@@ -14,7 +14,7 @@ author: Julien Mottet
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Profil : "Profil"
+  aboutme : "Profil"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -39,7 +39,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-
+  email: "julien.mottet.pro@gmail.com"
   github: timotte1984
   twitter: JuMottet
   youtube: UCCEAWvvFjcTuBx5F3izqXxQ
@@ -89,10 +89,10 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#FCB400"
+navbar-col: "#18BFFF"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#FCB400"
+page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
