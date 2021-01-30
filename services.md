@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Services
-subtitle: Des propositions adaptés à chaque entreprise
+subtitle: Changer le quotidien des entreprises grâce au No-Code.
 ---
 
 # Quelles sont nos services principaux ?
@@ -24,15 +24,15 @@ Plus besoins de réunions pour savoir qui fait quoi. Les salariés travaillent e
 
 ---
 
-### **Audit/Conception**
+### 🧑‍💻 Audit/Conception
 
 Vous souhaitez améliorer vos outils internes rapidement ? Je vous accompagne, de l'audit à la conception de la solution finale.
 
-### **Coaching**
+### 💁‍♂️ Coaching
 
 Nous travaillons ensemble sur votre projet via Zoom. Nous développons à 4 mains. Vous montez progressivement en compétence. Au bout de quelques semaines vous êtes autonome sur le périmètre travaillé.
 
-### **Formation**
+### 👨‍🏫 Formation
 
 Je propose des sessions de formation d'une demi-journée associant théorie et pratique pour débutants ou non.
 *Offre "Spécial" pour les Ecoles/Univ.*

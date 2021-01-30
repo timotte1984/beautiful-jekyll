@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Airtable
-subtitle: Pourquoi utiliser cette outil ?
+subtitle: Pourquoi utiliser cet outil ?
+cover-img: /assets/img/banner-airtable.png
 ---
 
 # Qu'est ce que le No-Code ?
@@ -20,13 +21,22 @@ Le nombre d'applications disponibles augmente de jour en jour et chacune répond
 
 Pour creuser le sujet, je recommande cette **[article](https://alexandre.substack.com/p/-no-code-unleashing-creativity-on)** de Alexandre Dewez.
 
+![list-outils-nocode]({{site.url}}/assets/img/page-airtable/list-outils-nocode.png )
+*Il existe différents types d'outis Nocode. Certains permettent de faire des sites web, certains facilitent la gestion de données. D'autres encore permettent d'automatiser des tâches. Voici ici les outils No-Code leaders sur leurs segments.*
+
 # Qu'est ce qu'Airtable ?
 
 ---
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/da6f7256-9b75-428c-95f4-9fc4cb8788d7/reimagined2x.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/da6f7256-9b75-428c-95f4-9fc4cb8788d7/reimagined2x.png)
+## Airtable est une solution hybride entre Excel et une base de données.
 
-Airtable est disponible sur Bureau, sur navigateur, Tablette et Telephone
+L'outil, créé il y a 9 ans,  est la référence en terme de stockage de données dans l'univers no-code. Son caractère hybride permet aux personnes utilisant Excel au quotidien et aux experts Airtable de travailler ensemble pour concevoir des outils puissants répondant exactement aux besoins métiers. Les questions techniques de conception sont mises au second plan pour se focaliser sur le quotidien du client. Le focus est mis sur :
+
+- Comment vous faire gagner du temps ?
+- Comment vous éviter les erreurs du passée ?
+
+![Ecran Airtable]({{site.url}}/assets/img/page-airtable/ecran-airtable.png )
+*Airtable est disponible sur Bureau, sur navigateur, Tablette et Telephone. Cela permet aux équipes des bureaux et aux équipes terrain de se coordonner.*
 
 # Pourquoi engager un consultant ?
 
@@ -43,3 +53,7 @@ Les modifications mineures (ajout d'un indicateur, création d'une simple automa
 Même si Airtable ressemble à Excel, il ne faut pas l'utiliser comme tel.
 
 Une certaine culture de la donnée est à acquérir pour utiliser intelligemment l'outil. C'est là aussi le rôle du consultant.
+
+
+![Image Coaching Airtable]({{site.url}}/assets/img/page-airtable/ecran-coaching.png )
+*Scéance de coaching "Airtable" via Zoom avec la responsable RH d'une PME. L'objectif était de concevoir en 2h, un outil de collecte de données des futurs candidats aux offres d'emplois (décembre 2020)*
