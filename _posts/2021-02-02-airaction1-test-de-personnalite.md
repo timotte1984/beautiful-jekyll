@@ -24,7 +24,7 @@ Créer un test de personnalité sur Airtable comprenant :
 
 ![Baptiste Promis Juré](baptiste-pj.png )
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cdb5b9c7-a387-41e4-a95b-ad5e79d39c69/Formulaire-Personnallite.gif]({{site.url}}/assets/img/page-clients/Formulaire-Personnallite.gif)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cdb5b9c7-a387-41e4-a95b-ad5e79d39c69/Formulaire-Personnallite.gif]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Formulaire-Personnallite.gif)
 
 Formulaire du test de personnalité
 
