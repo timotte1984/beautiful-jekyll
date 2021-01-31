@@ -31,7 +31,7 @@ Formulaire du test de personnalité
 
 - Un système pour envoyer par email automatisé le résultat du test à l'utilisateur.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3444508c-49e4-4184-aff0-92c559bb8697/chrome-capture_(1).gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3444508c-49e4-4184-aff0-92c559bb8697/chrome-capture_(1).gif)
+![chrome-capture]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/chrome-capture.gif)
 
 Email reçu par le répondant avec le résultat
 
