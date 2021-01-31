@@ -9,9 +9,11 @@ tags: airaction airtable test
 comments: true
 ---
 
+
 Voici un tutoriel pour élaborer un test de personnalité avec Airtable. L'usage d'Airtable permet une grande flexibilité dans la configuration du test et le traitement des données. Ce travail s'inspire d'une vraie mission Freelance. Le temps nécessaire à la réalisation d'un test dépend du nombre de questions/réponses, comptez :
 - une bonne demi-journée si vous partez de zéro.
 - 1h/1h30 si vous partez du template (dispo à la fin de l'article).
+
 Je remercie [**Florian Verdonck**](https://www.linkedin.com/in/florian-verdonck-52342030/) et [**Menda Konate**](https://www.linkedin.com/in/menda-konate-014748187/) pour les échanges sur ce sujet.
 
 # Introduction
@@ -22,9 +24,8 @@ Créer un test de personnalité sur Airtable comprenant :
 
 - Un formulaire pour collecter les informations
 
-![Baptiste Promis Juré](baptiste-pj.png )
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cdb5b9c7-a387-41e4-a95b-ad5e79d39c69/Formulaire-Personnallite.gif]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Formulaire-Personnallite.gif)
+![Formulaire-Personnallite]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Formulaire-Personnallite.gif)
 
 Formulaire du test de personnalité
 
