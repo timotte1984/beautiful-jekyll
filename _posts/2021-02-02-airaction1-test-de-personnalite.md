@@ -68,7 +68,7 @@ Ex : Une réponse telle que "Donner l'essentiel de son argent à des organisatio
 - Lorsque le formulaire est validé, le nombre de réponses pour chaque "personnalité" est calculé.
 - La synthèse est envoyée automatiquement par email à la personne interrogée sous ce format :
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca28ed71-cea9-45bb-90be-d5f4c20502c1/Capture_decran_2020-12-29_a_10.58.32.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca28ed71-cea9-45bb-90be-d5f4c20502c1/Capture_decran_2020-12-29_a_10.58.32.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca28ed71-cea9-45bb-90be-d5f4c20502c1/Capture_decran_2020-12-29_a_10.58.32.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-29_a_10.58.32.png)
 
 La réalisation de cet outil a nécessité 3 sous-modules :
 
