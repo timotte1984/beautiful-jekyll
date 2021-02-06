@@ -1,7 +1,7 @@
 ---
 layout: post
-title: AirAction n°1
-subtitle: 3 étapes pour concevoir un test de personnalité avec Airtable
+title: 3 étapes pour concevoir un test de personnalité avec Airtable
+subtitle: AirAction n°1
 cover-img: /assets/img/personnalitytest.jpeg
 thumbnail-img: /assets/img/personnalitytest.jpeg
 share-img: /assets/img/personnalitytest.jpeg
