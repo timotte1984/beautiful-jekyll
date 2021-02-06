@@ -21,7 +21,7 @@ Le nombre d'applications disponibles augmente de jour en jour et chacune répond
 
 Pour creuser le sujet, je recommande cette **[article](https://alexandre.substack.com/p/-no-code-unleashing-creativity-on)** de Alexandre Dewez.
 
-![list-outils-nocode]({{site.url}}/assets/img/page-airtable/list-outils-nocode.png )
+![list-outils-nocode]({{site.url}}/beautiful-jekyll/assets/img/page-airtable/list-outils-nocode.png )
 *Il existe différents types d'outis Nocode. Certains permettent de faire des sites web, certains facilitent la gestion de données. D'autres encore permettent d'automatiser des tâches. Voici ici les outils No-Code leaders sur leurs segments.*
 
 # Qu'est ce qu'Airtable ?
