@@ -2,6 +2,8 @@
 layout: page
 title: Services
 subtitle: Changer le quotidien des entreprises grâce au No-Code.
+cover-img: /assets/img/nos-services.png
+share-img: /assets/img/nos-services.png
 ---
 
 # Quelles sont nos services principaux ?

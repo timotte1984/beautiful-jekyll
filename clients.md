@@ -2,6 +2,8 @@
 layout: page
 title: Clients
 subtitle: Airtable est utile à tous.
+cover-img: /assets/img/personnalitytest.jpeg
+share-img: /assets/img/personnalitytest.jpeg
 ---
 
 
