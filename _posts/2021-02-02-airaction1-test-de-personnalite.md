@@ -2,10 +2,10 @@
 layout: post
 title: AirAction n°1
 subtitle: 3 étapes pour concevoir un test de personnalité avec Airtable
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: airaction airtable test
+cover-img: /assets/img/personnalitytest.jpeg
+thumbnail-img: /assets/img/personnalitytest.jpeg
+share-img: /assets/img/personnalitytest.jpeg
+tags: airaction airtable
 comments: true
 ---
 
@@ -307,6 +307,6 @@ Si cela vous intéresse, merci [de m'écrire](mailto:julien.mottet.pro@gmail.com
 
 # Bye ! 👋
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/786a0fae-b50e-49a8-a764-8ed5eaa729c0/Capture_decran_2021-01-03_a_23.46.15.png]({{site.url}}/beautiful-jekyll/assets/img/posts/220202-airaction1-testpersonnalite/ Capture_decran_2021-01-03_a_23.46.15.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/786a0fae-b50e-49a8-a764-8ed5eaa729c0/Capture_decran_2021-01-03_a_23.46.15.png]({{site.url}}/beautiful-jekyll/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2021-01-03_a_23.46.15.png)
 
 [https://hustling-writer-2516.ck.page/20a0d621b8](https://hustling-writer-2516.ck.page/20a0d621b8)
