@@ -2,7 +2,6 @@
 layout: page
 title: A propos
 subtitle: Qui suis-je ?
-cover-img: /assets/img/presentation.jpg
 share-img: /assets/img/presentation.jpg
 ---
 

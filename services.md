@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Services
-subtitle: Changer le quotidien des entreprises grâce au No-Code.
-cover-img: /assets/img/nos-services.png
+subtitle: Nous changeons le quotidien des entreprises grâce au No-Code.
 share-img: /assets/img/nos-services.png
 ---
 

@@ -2,7 +2,6 @@
 layout: page
 title: Airtable
 subtitle: Pourquoi utiliser cet outil ?
-cover-img: /assets/img/banner-airtable.png
 ---
 
 # Qu'est ce que le No-Code ?
