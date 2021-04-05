@@ -20,7 +20,7 @@ Le nombre d'applications disponibles augmente de jour en jour et chacune répond
 
 Pour creuser le sujet, je recommande cette **[article](https://alexandre.substack.com/p/-no-code-unleashing-creativity-on)** de Alexandre Dewez.
 
-![list-outils-nocode]({{site.url}}/beautiful-jekyll/assets/img/page-airtable/list-outils-nocode.png )
+![list-outils-nocode]({{site.url}}/assets/img/page-airtable/list-outils-nocode.png )
 *Il existe différents types d'outis Nocode. Certains permettent de faire des sites web, certains facilitent la gestion de données. D'autres encore permettent d'automatiser des tâches. Voici ici les outils No-Code leaders sur leurs segments.*
 
 # Qu'est ce qu'Airtable ?
@@ -34,7 +34,7 @@ L'outil, créé il y a 9 ans,  est la référence en terme de stockage de donné
 - Comment vous faire gagner du temps ?
 - Comment vous éviter les erreurs du passée ?
 
-![Ecran Airtable]({{site.url}}/beautiful-jekyll/assets/img/page-airtable/ecran-airtable.png )
+![Ecran Airtable]({{site.url}}/assets/img/page-airtable/ecran-airtable.png )
 *Airtable est disponible sur Bureau, sur navigateur, Tablette et Telephone. Cela permet aux équipes des bureaux et aux équipes terrain de se coordonner.*
 
 # Pourquoi engager un consultant ?
@@ -54,5 +54,5 @@ Même si Airtable ressemble à Excel, il ne faut pas l'utiliser comme tel.
 Une certaine culture de la donnée est à acquérir pour utiliser intelligemment l'outil. C'est là aussi le rôle du consultant.
 
 
-![Image Coaching Airtable]({{site.url}}/beautiful-jekyll/assets/img/page-airtable/ecran-coaching.png )
+![Image Coaching Airtable]({{site.url}}/assets/img/page-airtable/ecran-coaching.png )
 *Scéance de coaching "Airtable" via Zoom avec la responsable RH d'une PME. L'objectif était de concevoir en 2h, un outil de collecte de données des futurs candidats aux offres d'emplois (décembre 2020)*

@@ -26,13 +26,13 @@ Créer un test de personnalité sur Airtable comprenant :
 - Un formulaire pour collecter les informations
 
 
-![Formulaire-Personnallite]({{site.url}}/beautiful-jekyll/assets/img/posts/220202-airaction1-testpersonnalite/Formulaire-Personnallite.gif)
+![Formulaire-Personnallite]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Formulaire-Personnallite.gif)
 
 Formulaire du test de personnalité
 
 - Un système pour envoyer par email automatisé le résultat du test à l'utilisateur.
 
-![chrome-capture]({{site.url}}/beautiful-jekyll/assets/img/posts/220202-airaction1-testpersonnalite/chrome-capture.gif)
+![chrome-capture]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/chrome-capture.gif)
 
 Email reçu par le répondant avec le résultat
 
@@ -69,7 +69,7 @@ Ex : Une réponse telle que "Donner l'essentiel de son argent à des organisatio
 - Lorsque le formulaire est validé, le nombre de réponses pour chaque "personnalité" est calculé.
 - La synthèse est envoyée automatiquement par email à la personne interrogée sous ce format :
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca28ed71-cea9-45bb-90be-d5f4c20502c1/Capture_decran_2020-12-29_a_10.58.32.png]({{site.url}}/beautiful-jekyll/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-29_a_10.58.32.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca28ed71-cea9-45bb-90be-d5f4c20502c1/Capture_decran_2020-12-29_a_10.58.32.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-29_a_10.58.32.png)
 
 La réalisation de cet outil a nécessité 3 sous-modules :
 
@@ -94,7 +94,7 @@ Créer un table contenant 3 colonnes :
 
 On obtient un tableau ressemblant à celui-ci.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c5e6b1d6-6606-4f30-a76b-1fa8077d1604/Capture_decran_2020-12-29_a_14.41.50.png]({{site.url}}/beautiful-jekyll/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-29_a_14.41.50.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c5e6b1d6-6606-4f30-a76b-1fa8077d1604/Capture_decran_2020-12-29_a_14.41.50.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-29_a_14.41.50.png)
 
 Table "Propositions" contenant les propositions associées à leur question et leur personnalité.
 
@@ -107,7 +107,7 @@ Table "Propositions" contenant les propositions associées à leur question et l
 - Dans chaque vue, ajouter un filtre concernant le champ "questions" pour ne sélectionner qu'une question.
 - Exemple pour la vue "Q1" ne seront gardés que les records ayant un champ "Question" contenant "1- Si" (ce qui est le début du texte de la question 1)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a794aa1b-379b-44d1-a842-77c602f254d9/Capture_decran_2020-12-29_a_14.50.40.png]({{site.url}}/beautiful-jekyll/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-29_a_14.50.40.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a794aa1b-379b-44d1-a842-77c602f254d9/Capture_decran_2020-12-29_a_14.50.40.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-29_a_14.50.40.png)
 
 ## Création de la table "Quizz"
 
@@ -124,7 +124,7 @@ Créer une table "Quizz" avec les champs suivants :
 
 Chaque champ "Question X" est une liaison avec la table "Propositions" **mais elle se restreint à la vue "QX"**.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fdddbca9-c797-44c5-b821-02969b0dcf0b/Capture_decran_2020-12-29_a_15.20.11.png]({{site.url}}/beautiful-jekyll/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-29_a_15.20.11.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fdddbca9-c797-44c5-b821-02969b0dcf0b/Capture_decran_2020-12-29_a_15.20.11.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-29_a_15.20.11.png)
 
 Le champ de la question 1 ("1 - Si ....implusion") est lié à la vue **Q1** de la table "Propositions".
 
@@ -136,7 +136,7 @@ Le formulaire est maintenant prêt !
 
 Cliquer sur "Open Form" pour ouvrir le formulaire dans le navigateur
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cdb5b9c7-a387-41e4-a95b-ad5e79d39c69/Formulaire-Personnallite.gif]({{site.url}}/beautiful-jekyll/assets/img/posts/220202-airaction1-testpersonnalite/Formulaire-Personnallite.gif)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cdb5b9c7-a387-41e4-a95b-ad5e79d39c69/Formulaire-Personnallite.gif]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Formulaire-Personnallite.gif)
 
 Formulaire du test de personnalité
 
@@ -150,7 +150,7 @@ Formulaire du test de personnalité
 
 Pour rappel, l'objectif est d'obtenir ceci.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca28ed71-cea9-45bb-90be-d5f4c20502c1/Capture_decran_2020-12-29_a_10.58.32.png]({{site.url}}/beautiful-jekyll/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-29_a_10.58.32.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca28ed71-cea9-45bb-90be-d5f4c20502c1/Capture_decran_2020-12-29_a_10.58.32.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-29_a_10.58.32.png)
 
 A partir des éléments stockés dans la table Quizz, Il va nous falloir :
 
@@ -197,17 +197,17 @@ Pour l'instant cette table est vide. Il va falloir l'alimenter à partir des inf
 - Créer **une automatisation nommée** "Générer Réponses Unitaires".
 - L'automatisation se lancera dès qu'un nouveau quizz est validé ("When a record is created").
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1e7685ee-3c6d-4eeb-bb11-49f663c9925e/Capture_decran_2020-12-29_a_16.48.51.png]({{site.url}}/beautiful-jekyll/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-29_a_16.48.51.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1e7685ee-3c6d-4eeb-bb11-49f663c9925e/Capture_decran_2020-12-29_a_16.48.51.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-29_a_16.48.51.png)
 
 - Chaque réponse à une question doit correspondre un nouvel enregistrement dans la table "Réponses Unitaires".
 - Cela fait donc **20 actions de création de record** dans la table "Réponses Unitaires" par quizz rempli (autant vous dire que la version gratuite d'Airtable ne suffit pas !).
 - Voici la configuration de chaque action (ici pour la question 2)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90779456-dcec-4bf0-b976-e3b057d9ea57/Enregistrement_de_lecran_2020-12-31_a_16.02.45.gif]({{site.url}}/beautiful-jekyll/assets/img/posts/220202-airaction1-testpersonnalite/Enregistrement_de_lecran_2020-12-31_a_16.02.45.gif)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90779456-dcec-4bf0-b976-e3b057d9ea57/Enregistrement_de_lecran_2020-12-31_a_16.02.45.gif]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Enregistrement_de_lecran_2020-12-31_a_16.02.45.gif)
 
 - Une fois l'automatisation activée, voici le résultat de la validation d'un premier formulaire par mottet.julien123@gmail.com puis d'un second par julien.mottet.pro@gmail.com dans la table "Réponses Unitaires" (voir la transition entre les 2 entre le record 80 et 81).
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e7634625-2f48-46e2-95b4-f13e550e7ab0/Capture_decran_2020-12-29_a_17.40.17.png]({{site.url}}/beautiful-jekyll/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-29_a_17.40.17.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e7634625-2f48-46e2-95b4-f13e550e7ab0/Capture_decran_2020-12-29_a_17.40.17.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-29_a_17.40.17.png)
 
 enregistrements dans la table "Réponses Unitaires" de la fin du questionnaire de Mr mottet.julien123 et du début de celui de Mr [julien.mottet.pro](http://julien.mottet.pro) (transition à la ligne 80)
 
@@ -218,7 +218,7 @@ enregistrements dans la table "Réponses Unitaires" de la fin du questionnaire d
     - Table de référence : "Réponses Unitaires"
     - Filtre : Champ "Personnalité" contains  [Personnalité K]
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/39448760-9c57-400c-a60a-098aa84a03d1/Capture_decran_2020-12-29_a_21.05.30.png]({{site.url}}/beautiful-jekyll/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-29_a_21.05.30.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/39448760-9c57-400c-a60a-098aa84a03d1/Capture_decran_2020-12-29_a_21.05.30.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-29_a_21.05.30.png)
 
 On récupère ainsi **le compte** de chaque personnalité dans la table Quizz à partir des informations générées dans la table Réponses Unitaires.
 
@@ -239,7 +239,7 @@ On récupère ainsi **le compte** de chaque personnalité dans la table Quizz à
 
 Voici le rendu dans la table Quizz.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/50b61a4e-2790-4780-a49d-cfb3d43423ec/Capture_decran_2020-12-29_a_23.43.33.png]({{site.url}}/beautiful-jekyll/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-29_a_23.43.33.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/50b61a4e-2790-4780-a49d-cfb3d43423ec/Capture_decran_2020-12-29_a_23.43.33.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-29_a_23.43.33.png)
 
 Résultat !
 
@@ -267,11 +267,11 @@ Résultat !
 - Donc une option de Trigger est : "Nb de Points" = 20.
 - Ca marche !
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/31a11da7-5626-41f5-92bf-47ece22269cc/Capture_decran_2021-01-06_a_14.19.08.png]({{site.url}}/beautiful-jekyll/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2021-01-06_a_14.19.08.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/31a11da7-5626-41f5-92bf-47ece22269cc/Capture_decran_2021-01-06_a_14.19.08.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2021-01-06_a_14.19.08.png)
 
 Enfin, voici la configuration de l'étape 2 de l'automatisation : la génération et l'envoi de l'email. L'ensemble des informations est issue de la table Quizz.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b7a0ce5a-ef5a-42db-a366-0264b524f41c/Capture_decran_2020-12-30_a_00.10.02.png]({{site.url}}/beautiful-jekyll/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-30_a_00.10.02.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b7a0ce5a-ef5a-42db-a366-0264b524f41c/Capture_decran_2020-12-30_a_00.10.02.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-30_a_00.10.02.png)
 
 Configuration de l'email.
 
@@ -308,6 +308,6 @@ Si cela vous intéresse, merci [de m'écrire](mailto:julien.mottet.pro@gmail.com
 
 # Bye ! 👋
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/786a0fae-b50e-49a8-a764-8ed5eaa729c0/Capture_decran_2021-01-03_a_23.46.15.png]({{site.url}}/beautiful-jekyll/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2021-01-03_a_23.46.15.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/786a0fae-b50e-49a8-a764-8ed5eaa729c0/Capture_decran_2021-01-03_a_23.46.15.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2021-01-03_a_23.46.15.png)
 
 [https://hustling-writer-2516.ck.page/20a0d621b8](https://hustling-writer-2516.ck.page/20a0d621b8)
