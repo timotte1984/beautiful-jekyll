@@ -310,4 +310,3 @@ Si cela vous intéresse, merci [de m'écrire](mailto:julien.mottet.pro@gmail.com
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/786a0fae-b50e-49a8-a764-8ed5eaa729c0/Capture_decran_2021-01-03_a_23.46.15.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2021-01-03_a_23.46.15.png)
 
-[https://hustling-writer-2516.ck.page/20a0d621b8](https://hustling-writer-2516.ck.page/20a0d621b8)
