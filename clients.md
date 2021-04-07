@@ -5,17 +5,21 @@ subtitle: Airtable est utile à tous.
 share-img: /assets/img/personnalitytest.jpeg
 ---
 
+# Témoignage
 
+---
 
-*"Début 2020, nous étions en forte croissance. Mes salariés étaient "sous l'eau", je commençais à ne plus maîtriser ma boite. La solution développée avec Julien a clairement changé la donne.
-Aujourd'hui, l'ensemble de mes équipes et moi-même travaillons, au quotidien, sur Airtable".*
+> Début 2020, nous étions en forte croissance.
+
+> Mes salariés étaient "sous l'eau", je commençais à ne plus maîtriser ma boite.
+
+> La solution développée autour d'Airtable avec Julien a clairement changé la donne.
+
+> Aujourd'hui, l'ensemble de mes équipes et moi-même travaillons, au quotidien, sur l'outil.
+
+<img src="/assets/img/page-clients/baptiste-pj2.png" width="100px" height="100px" />   **Baptiste DELEPLANQUE**, Dirigeant de [Promis Juré](https://promis-jure.fr/)
+
 <br/>
-**Baptiste DELEPLANQUE**, Dirigeant de [Promis Juré](https://promis-jure.fr/).
-![Baptiste Promis Juré]({{site.url}}/assets/img/page-clients/baptiste-pj.png )
-
-
-
-
 
 # Missions Réalisées
 
