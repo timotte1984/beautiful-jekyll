@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: A propos
 subtitle: Qui suis-je ?
 share-img: /assets/img/presentation.jpg

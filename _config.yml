@@ -17,7 +17,9 @@ navbar-links:
   Airtable: "airtable"
   Services: "services"
   Clients: "clients"
+  Blog : "blog"
   A Propos: "aboutme"
+
 
 # --- Logo --- #
 
