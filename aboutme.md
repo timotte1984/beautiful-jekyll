@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: A propos
 subtitle: Qui suis-je ?
 share-img: /assets/img/presentation.jpg
@@ -9,3 +9,5 @@ Je suis ingénieur Supélec et AgroParisTech avec des expériences chez Groupe C
 
 ![Clients Passés]({{site.url}}/assets/img/page-apropos/clients-passes.png )
 *Voici les entreprises agroalimentaires ayant travaillé avec moi ces 4 dernières années.*
+
+Prendre un [**Rendez-vous**](calendly.com/julien-mottet-pro/30min).
