@@ -992,4 +992,35 @@ pre {
 .center {
   display: block;
   margin: 0 auto;
+
+}
+
+#cta-container{
+  display: flex;
+  margin: 0 auto;
+}
+
+#cta-content{
+  width: 100%;
+  text-align: center;
+  align-items: center;
+}
+
+.cta-button{
+background-color:#100874;
+border-radius: 4px;
+color: white;
+box-shadow: 1px 1px 1px;
+padding: 10px 20px;
+}
+
+.cta-button:hover{
+  background-color:#494cf5;
+  color: white;
+  text-decoration: none;
+}
+
+#presentation{
+  text-align: center;
+  font-size: 30px
 }
