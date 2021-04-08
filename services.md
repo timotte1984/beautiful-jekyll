@@ -37,3 +37,13 @@ Nous travaillons ensemble sur votre projet via Zoom. Nous développons à 4 main
 
 Je propose des sessions de formation d'une demi-journée associant théorie et pratique pour débutants ou non.
 *Offre "Spécial" pour les Ecoles/Univ.*
+
+
+<br/>
+<br/>
+<div id="cta-container">
+  <div id="cta-content">
+    <a href="https://calendly.com/julien-mottet-pro/30min" class="cta-button">Prendre un RDV</a>
+    <p><strong>06.69.44.70.48</strong></p>
+  </div>
+</div>

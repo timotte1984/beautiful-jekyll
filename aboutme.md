@@ -11,3 +11,12 @@ Je suis ingénieur Supélec et AgroParisTech avec des expériences chez Groupe C
 *Voici les entreprises agroalimentaires ayant travaillé avec moi ces 4 dernières années.*
 
 Prendre un [**Rendez-vous**](calendly.com/julien-mottet-pro/30min).
+
+<br/>
+<br/>
+<div id="cta-container">
+  <div id="cta-content">
+    <a href="https://calendly.com/julien-mottet-pro/30min" class="cta-button">Prendre un RDV</a>
+    <p><strong>06.69.44.70.48</strong></p>
+  </div>
+</div>

@@ -1012,6 +1012,7 @@ border-radius: 4px;
 color: white;
 box-shadow: 1px 1px 1px;
 padding: 10px 20px;
+margin: 40px 40px;
 }
 
 .cta-button:hover{
@@ -1024,3 +1025,8 @@ padding: 10px 20px;
   text-align: center;
   font-size: 30px
 }
+
+.img-home{
+  margin: 35px;
+}
+

@@ -37,4 +37,11 @@ Dans beaucoup d'entreprises, il existe plusieurs étapes "humaines" entre la pha
 <img src="/assets/img/page-clients/baptiste-pj2.png" width="100px" height="100px" />   **Baptiste DELEPLANQUE**, Dirigeant de [Promis Juré](https://promis-jure.fr/)
 
 <br/>
+<br/>
+<div id="cta-container">
+  <div id="cta-content">
+    <a href="https://calendly.com/julien-mottet-pro/30min" class="cta-button">Prendre un RDV</a>
+    <p><strong>06.69.44.70.48</strong></p>
+  </div>
+</div>
 
