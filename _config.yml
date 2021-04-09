@@ -14,7 +14,7 @@ author: Julien Mottet
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Airtable: "airtable"
+  Le Nocode: "nocode"
   Services: "services"
   Clients: "clients"
   Blog : "blog"
