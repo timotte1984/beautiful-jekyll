@@ -12,7 +12,7 @@ subtitle: Le pouvoir du code pour vos équipes métiers
 
 Le No-Code est un courant qui souhaite permettre aux non développeurs de concevoir leurs propres outils web.
 
-Grâce à des applications tels que Notion, Airtable, Zapier vous pouvez concevoir en quelques heures des solutions puissantes qui répondent exactement à vos besoins et que vous allez, ensuite, faire évoluer par vous-même.
+Grâce à des applications telles que Notion, Airtable, Zapier vous pouvez concevoir en quelques heures des solutions puissantes qui répondent exactement à vos besoins et que vous allez, ensuite, faire évoluer par vous-même.
 
 Le temps investi pour vous former et concevoir un outil sera récupéré dans les semaines qui suivent.
 
