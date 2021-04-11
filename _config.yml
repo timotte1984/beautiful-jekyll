@@ -64,10 +64,7 @@ social-network-links:
 # rss-description: Formation continue sur Airtable par Julien Mottet
 
 
-header:
-  actions:
-    label: "Découvrir nos offres"
-    url: "services"
+
 
 
 
