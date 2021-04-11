@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Services
-subtitle: Ils existent des alternatives à Excel et aux ERP classiques
+subtitle: Il existe des alternatives à Excel et aux ERP classiques.
 share-img: /assets/img/nos-services.png
 ---
 

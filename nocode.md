@@ -18,7 +18,7 @@ Le temps investi pour vous former et concevoir un outil sera récupéré dans le
 
 Le nombre d'applications disponibles augmente de jour en jour et chacune répond à des problématiques particulières.
 
-Pour creuser le sujet, je recommande cette **[article](https://alexandre.substack.com/p/-no-code-unleashing-creativity-on)** de Alexandre Dewez.
+Pour creuser le sujet, je recommande cet **[article](https://alexandre.substack.com/p/-no-code-unleashing-creativity-on)** de Alexandre Dewez.
 
 ![list-outils-nocode]({{site.url}}/assets/img/page-airtable/list-outils-nocode.png )
 *Il existe différents types d'outis Nocode. Certains permettent de faire des sites web, certains facilitent la gestion de données. D'autres encore permettent d'automatiser des tâches. Voici ici les outils No-Code leaders sur leurs segments.*
@@ -32,7 +32,7 @@ Pour creuser le sujet, je recommande cette **[article](https://alexandre.substac
 L'outil, créé il y a 9 ans,  est la référence en terme de stockage de données dans l'univers no-code. Son caractère hybride permet aux personnes utilisant Excel au quotidien et aux experts Airtable de travailler ensemble pour concevoir des outils puissants répondant exactement aux besoins métiers. Les questions techniques de conception sont mises au second plan pour se focaliser sur le quotidien du client. Le focus est mis sur :
 
 - Comment vous faire gagner du temps ?
-- Comment vous éviter les erreurs du passée ?
+- Comment vous éviter les erreurs du passé ?
 
 ![Ecran Airtable]({{site.url}}/assets/img/page-airtable/ecran-airtable.png )
 *Airtable est disponible sur Bureau, sur navigateur, Tablette et Telephone. Cela permet aux équipes des bureaux et aux équipes terrain de se coordonner.*
@@ -45,7 +45,7 @@ L'outil, créé il y a 9 ans,  est la référence en terme de stockage de donné
 
 le consultant prendra la main pour construire avec vous les premières briques de votre outil.
 
-Il vous formera progressivement pour vous apporter de autonomie.
+Il vous formera progressivement pour vous apporter de l'autonomie.
 
 Les modifications mineures (ajout d'un indicateur, création d'une simple automatisation) seront à votre portée très rapidement. Le consultant vous proposera l'ajout d'autres outils si cela lui semble pertinent.
 
