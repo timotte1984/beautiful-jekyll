@@ -10,15 +10,15 @@ share-img: /assets/img/nos-services.png
 
 ### 🤖 Automatisation de tâches administratives
 
-Générer et envoyer automatiquement des bons de livraison et ou des factures. Relancer vos clients ou encore être notifié lorsqu'un problème survient, grâce aux outils no-code.
+Générez et envoyez automatiquement des bons de livraison et ou des factures. Relancez vos clients ou encore soyez notifié lorsqu'un problème survient, grâce aux outils no-code.
 
 ### ⭐️ Remontée de données du terrain
 
-Grâce aux outils, les salariés remontent les informations du terrain en temps réel. Que ce soit les commerciaux sur l'état des rayons, ou les logisticiens sur l'état des stocks.
+Grâce à la compatibilité mobile des outils, les salariés remontent les informations du terrain en temps réel. Que ce soit les commerciaux sur l'état des rayons, ou les logisticiens sur l'état des stocks.
 
 ### ⏳  Réduction du travail de reporting
 
-Plus besoins de réunions pour savoir qui fait quoi. Les salariés travaillent et cela se voit dans les outils.
+Plus besoins de réunions pour savoir qui fait quoi. Les salariés travaillent et cela se voit dans les outils et les dashboards en temps réel.
 
 <img src="assets/img/homelogo.jpg" alt="" class="img-page">
 
