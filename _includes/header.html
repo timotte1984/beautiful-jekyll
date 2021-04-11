@@ -35,10 +35,6 @@
             {% else %}
               <h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
             {% endif %}
-            {% if page.action %}
-              <a href="{{ action.url }}" class="cta-button">{{ action.label }}</a>
-            {% endif %}
-            {% endif %}
           {% endif %}
 
           {% if include.type == "post" %}
