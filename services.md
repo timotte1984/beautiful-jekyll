@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Services
-subtitle: Nous changeons le quotidien des entreprises grâce au No-Code.
+subtitle: Ils existent des alternatives à Excel et aux ERP classiques
 share-img: /assets/img/nos-services.png
 ---
 

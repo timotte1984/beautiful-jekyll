@@ -69,7 +69,10 @@ Ex : Une réponse telle que "Donner l'essentiel de son argent à des organisatio
 - Lorsque le formulaire est validé, le nombre de réponses pour chaque "personnalité" est calculé.
 - La synthèse est envoyée automatiquement par email à la personne interrogée sous ce format :
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca28ed71-cea9-45bb-90be-d5f4c20502c1/Capture_decran_2020-12-29_a_10.58.32.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-29_a_10.58.32.png)
+
+![chrome-capture]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/listing_options.png)
+
+
 
 La réalisation de cet outil a nécessité 3 sous-modules :
 
@@ -150,7 +153,7 @@ Formulaire du test de personnalité
 
 Pour rappel, l'objectif est d'obtenir ceci.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca28ed71-cea9-45bb-90be-d5f4c20502c1/Capture_decran_2020-12-29_a_10.58.32.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-29_a_10.58.32.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca28ed71-cea9-45bb-90be-d5f4c20502c1/Capture_decran_2020-12-29_a_10.58.32.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/listingoptions2.png)
 
 A partir des éléments stockés dans la table Quizz, Il va nous falloir :
 
@@ -197,7 +200,7 @@ Pour l'instant cette table est vide. Il va falloir l'alimenter à partir des inf
 - Créer **une automatisation nommée** "Générer Réponses Unitaires".
 - L'automatisation se lancera dès qu'un nouveau quizz est validé ("When a record is created").
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1e7685ee-3c6d-4eeb-bb11-49f663c9925e/Capture_decran_2020-12-29_a_16.48.51.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-29_a_16.48.51.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1e7685ee-3c6d-4eeb-bb11-49f663c9925e/Capture_decran_2020-12-29_a_16.48.51.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/triggerquizz.png)
 
 - Chaque réponse à une question doit correspondre un nouvel enregistrement dans la table "Réponses Unitaires".
 - Cela fait donc **20 actions de création de record** dans la table "Réponses Unitaires" par quizz rempli (autant vous dire que la version gratuite d'Airtable ne suffit pas !).
@@ -218,7 +221,7 @@ enregistrements dans la table "Réponses Unitaires" de la fin du questionnaire d
     - Table de référence : "Réponses Unitaires"
     - Filtre : Champ "Personnalité" contains  [Personnalité K]
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/39448760-9c57-400c-a60a-098aa84a03d1/Capture_decran_2020-12-29_a_21.05.30.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-29_a_21.05.30.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/39448760-9c57-400c-a60a-098aa84a03d1/Capture_decran_2020-12-29_a_21.05.30.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/nbambassadeur.png)
 
 On récupère ainsi **le compte** de chaque personnalité dans la table Quizz à partir des informations générées dans la table Réponses Unitaires.
 
@@ -267,11 +270,11 @@ Résultat !
 - Donc une option de Trigger est : "Nb de Points" = 20.
 - Ca marche !
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/31a11da7-5626-41f5-92bf-47ece22269cc/Capture_decran_2021-01-06_a_14.19.08.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2021-01-06_a_14.19.08.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/31a11da7-5626-41f5-92bf-47ece22269cc/Capture_decran_2021-01-06_a_14.19.08.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/camarche.png)
 
 Enfin, voici la configuration de l'étape 2 de l'automatisation : la génération et l'envoi de l'email. L'ensemble des informations est issue de la table Quizz.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b7a0ce5a-ef5a-42db-a366-0264b524f41c/Capture_decran_2020-12-30_a_00.10.02.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2020-12-30_a_00.10.02.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b7a0ce5a-ef5a-42db-a366-0264b524f41c/Capture_decran_2020-12-30_a_00.10.02.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/emailsent.png)
 
 Configuration de l'email.
 
@@ -308,5 +311,5 @@ Si cela vous intéresse, merci [de m'écrire](mailto:julien.mottet.pro@gmail.com
 
 # Bye ! 👋
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/786a0fae-b50e-49a8-a764-8ed5eaa729c0/Capture_decran_2021-01-03_a_23.46.15.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/Capture_decran_2021-01-03_a_23.46.15.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/786a0fae-b50e-49a8-a764-8ed5eaa729c0/Capture_decran_2021-01-03_a_23.46.15.png]({{site.url}}/assets/img/posts/220202-airaction1-testpersonnalite/profilphoto.png)
 
