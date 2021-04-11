@@ -995,12 +995,12 @@ pre {
 
 }
 
-#cta-container{
+.cta-container{
   display: flex;
   margin: 0 auto;
 }
 
-#cta-content{
+.cta-content{
   width: 100%;
   text-align: center;
   align-items: center;
@@ -1015,6 +1015,20 @@ padding: 10px 20px;
 margin: 40px 40px;
 }
 
+.cta-button-light{
+border-color:#100874;
+border-radius: 4px;
+color: #100874;
+box-shadow: 1px 1px 1px 1px;
+padding: 10px 20px;
+margin: 40px 20px;
+}
+
+.cta-button-light:hover{
+  font-style: bold;
+  text-decoration: none;
+}
+
 .cta-button:hover{
   background-color:#494cf5;
   color: white;
@@ -1027,6 +1041,13 @@ margin: 40px 40px;
 }
 
 .img-home{
-  margin-top: 20px;
+  margin: 20px;
+  width: 20%;
 }
+
+.img-page{
+  margin: 20px;
+  width: 80%;
+}
+
 

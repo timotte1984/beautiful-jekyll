@@ -20,6 +20,8 @@ Grâce aux outils, les salariés remontent les informations du terrain en temps 
 
 Plus besoins de réunions pour savoir qui fait quoi. Les salariés travaillent et cela se voit dans les outils.
 
+<img src="assets/img/homelogo.jpg" alt="" class="img-page">
+
 
 # Quelles sont nos offres ?
 
@@ -41,8 +43,8 @@ Je propose des sessions de formation d'une demi-journée associant théorie et p
 
 <br/>
 <br/>
-<div id="cta-container">
-  <div id="cta-content">
+<div class="cta-container">
+  <div class="cta-content">
     <a href="https://calendly.com/julien-mottet-pro/30min" class="cta-button">Prendre un RDV</a>
     <p><strong>06.69.44.70.48</strong></p>
   </div>

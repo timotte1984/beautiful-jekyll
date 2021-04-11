@@ -14,8 +14,8 @@ Prendre un [**Rendez-vous**](calendly.com/julien-mottet-pro/30min).
 
 <br/>
 <br/>
-<div id="cta-container">
-  <div id="cta-content">
+<div class="cta-container">
+  <div clss="cta-content">
     <a href="https://calendly.com/julien-mottet-pro/30min" class="cta-button">Prendre un RDV</a>
     <p><strong>06.69.44.70.48</strong></p>
   </div>

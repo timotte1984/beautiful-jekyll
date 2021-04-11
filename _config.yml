@@ -63,6 +63,15 @@ social-network-links:
 # If you don't want to show an RSS link, remove the following line.
 # rss-description: Formation continue sur Airtable par Julien Mottet
 
+
+header:
+  actions:
+    label: "Découvrir nos offres"
+    url: "services"
+
+
+
+
 # --- General options --- #
 
 # Select which social network share links to show in posts
