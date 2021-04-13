@@ -16,6 +16,8 @@ Je suis ingénieur Supélec et AgroParisTech avec des expériences chez Groupe C
 <p><italic>Voici les entreprises ayant travaillé avec moi ces 4 dernières années.</italic></p>
 </center>
 
+<center><img src="/assets/img/complete.svg" alt="" class="img-page"></center>
+
 <br/>
 <br/>
 <div class="cta-container">

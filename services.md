@@ -20,7 +20,9 @@ Grâce à la compatibilité mobile des outils, les salariés remontent les infor
 
 Plus besoins de réunions pour savoir qui fait quoi. Les salariés travaillent et cela se voit dans les outils et les dashboards en temps réel.
 
-<img src="assets/img/analytics.svg" alt="" class="img-page">
+
+
+<center><img src="/assets/img/data.svg" alt="" class="img-page"></center>
 
 
 # Quelles sont nos offres ?
@@ -40,6 +42,7 @@ Nous travaillons ensemble sur votre projet via Zoom. Nous développons à 4 main
 Je propose des sessions de formation d'une demi-journée associant théorie et pratique pour débutants ou non.
 *Offre "Spécial" pour les Ecoles/Univ.*
 
+<center><img src="/assets/img/share.svg" alt="" class="img-page"></center>
 
 <br/>
 <br/>

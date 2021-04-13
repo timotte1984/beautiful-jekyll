@@ -21,12 +21,18 @@ Lorsque l'on lance son activité, chaque heure compte. Numériser les processus 
 
 Dans beaucoup d'entreprises, il existe plusieurs étapes "humaines" entre la phase de collecte et le traitement de l'information. Les risques d'erreurs sont nombreux et ces processus sont très lents. Numériser permet de résoudre ces problèmes.
 
+<center><img src="/assets/img/deal.svg" alt="" class="img-page"></center>
+
 
 # Missions Réalisées
 
 ---
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shridOtU1hUUXVPyS?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="333" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+
+<center><img src="/assets/img/say.svg" alt="" class="img-page"></center>
+
 
 # Témoignage
 
