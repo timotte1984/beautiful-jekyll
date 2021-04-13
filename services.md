@@ -20,7 +20,7 @@ Grâce à la compatibilité mobile des outils, les salariés remontent les infor
 
 Plus besoins de réunions pour savoir qui fait quoi. Les salariés travaillent et cela se voit dans les outils et les dashboards en temps réel.
 
-<img src="assets/img/homelogo.jpg" alt="" class="img-page">
+<img src="assets/img/analytics.svg" alt="" class="img-page">
 
 
 # Quelles sont nos offres ?
