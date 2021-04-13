@@ -2,6 +2,7 @@
 layout: page
 title: Le Nocode
 subtitle: Le pouvoir du code pour vos équipes métiers
+cover-img: /assets/img/landinglogo.png
 ---
 
 # Qu'est ce que le No-Code ?
