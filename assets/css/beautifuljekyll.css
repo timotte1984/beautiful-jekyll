@@ -1018,6 +1018,7 @@ margin: 40px 40px;
 
 #cta-button:hover{
   text-decoration: none;
+  color: white;
 }
 
 #cta-button-blue{
