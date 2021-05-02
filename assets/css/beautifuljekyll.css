@@ -1018,7 +1018,9 @@ margin: 40px 40px;
 
 #cta-button:hover{
   text-decoration: none;
+  font-style: bolder;
   color: white;
+  opacity: 0.8;
 }
 
 #cta-button-blue{
@@ -1032,6 +1034,8 @@ margin: 40px 40px;
 
 #cta-button-blue:hover{
   text-decoration: none;
+  font-style: bolder;
+  opacity: 0.8;
 }
 
 #cta-button-grey{
@@ -1044,10 +1048,9 @@ margin: 40px 40px;
 }
 
 #cta-button-grey:hover{
-  background-color:#E5E6E6;
-  font-style: bold;
+  opacity: 0.8;
+  font-style: bolder;
   text-decoration: none;
-  color: black;
 }
 
 .cta-button-light{
