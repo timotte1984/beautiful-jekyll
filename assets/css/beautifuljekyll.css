@@ -1016,7 +1016,7 @@ padding: 10px 20px;
 margin: 40px 40px;
 }
 
-#cta-button:hover{
+#cta-button:hover {
   text-decoration: none;
   font-style: bolder;
   color: white;
@@ -1032,7 +1032,7 @@ padding: 10px 20px;
 margin: 40px 40px;
 }
 
-#cta-button-blue:hover{
+#cta-button-blue:hover {
   text-decoration: none;
   font-style: bolder;
   opacity: 0.8;
@@ -1047,7 +1047,7 @@ padding: 10px 20px;
 margin: 40px 40px;
 }
 
-#cta-button-grey:hover{
+#cta-button-grey:hover {
   opacity: 0.8;
   font-style: bolder;
   text-decoration: none;
@@ -1061,7 +1061,7 @@ padding: 10px 20px;
 margin: 40px 40px;
 }
 
-.cta-button-light hover{
+.cta-button-light:hover{
   font-style: bold;
   text-decoration: none;
 }
