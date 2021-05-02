@@ -1014,13 +1014,14 @@ color: white;
 box-shadow: 1px 1px 1px;
 padding: 10px 20px;
 margin: 40px 40px;
+opacity: 0.9 !important;
 }
 
 #cta-button:hover {
   text-decoration: none;
   font-style: bolder !important;
   color: white;
-  opacity: 0.8 !important;
+  opacity: 1 !important;
 }
 
 #cta-button-blue{
@@ -1030,12 +1031,13 @@ color: white;
 box-shadow: 1px 1px 1px;
 padding: 10px 20px;
 margin: 40px 40px;
+opacity: 0.9 !important;
 }
 
 #cta-button-blue:hover {
   text-decoration: none;
   font-style: bolder;
-  opacity: 0.8;
+  opacity: 1 !important;
 }
 
 #cta-button-grey{
@@ -1045,10 +1047,11 @@ color: black;
 box-shadow: 1px 1px 1px;
 padding: 10px 20px;
 margin: 40px 40px;
+opacity: 0.9 !important;
 }
 
 #cta-button-grey:hover {
-  opacity: 0.8;
+  opacity: 1 !important;
   font-style: bolder;
   text-decoration: none;
 }
