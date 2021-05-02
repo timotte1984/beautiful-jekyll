@@ -1016,8 +1016,8 @@ padding: 10px 20px;
 margin: 40px 40px;
 }
 
-.cta-button:hover{
-  background-color:#fa3b60;
+.cta-button a:hover{
+  background-color:#fa2b60;
   text-decoration: none;
   color: white;
 }
@@ -1031,7 +1031,7 @@ padding: 10px 20px;
 margin: 40px 40px;
 }
 
-.cta-button-blue:hover{
+.cta-button-blue a:hover{
   background-color:#585B89;
   font-style: bold;
   text-decoration: none;
@@ -1047,7 +1047,7 @@ padding: 10px 20px;
 margin: 40px 40px;
 }
 
-.cta-button-grey:hover{
+.cta-button-grey a:hover{
   background-color:#E5E6E6;
   font-style: bold;
   text-decoration: none;
