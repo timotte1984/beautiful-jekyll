@@ -1016,6 +1016,12 @@ padding: 10px 20px;
 margin: 40px 40px;
 }
 
+.cta-button:hover{
+  background-color:#fa3b60;
+  text-decoration: none;
+  color: white;
+}
+
 .cta-button-blue{
 background-color:#585A89;
 border-radius: 4px;
@@ -1026,9 +1032,10 @@ margin: 40px 40px;
 }
 
 .cta-button-blue:hover{
-  background-color:#585F89;
+  background-color:#585B89;
   font-style: bold;
   text-decoration: none;
+  color: white;
 }
 
 .cta-button-grey{
@@ -1041,9 +1048,10 @@ margin: 40px 40px;
 }
 
 .cta-button-grey:hover{
-  background-color:#E1E6E6;
+  background-color:#E5E6E6;
   font-style: bold;
   text-decoration: none;
+  color: black;
 }
 
 .cta-button-light{
@@ -1059,10 +1067,6 @@ margin: 40px 40px;
   text-decoration: none;
 }
 
-.cta-button:hover{
-  background-color:#fa9b60;
-  text-decoration: none;
-}
 
 #presentation{
   text-align: center;
