@@ -1016,6 +1016,36 @@ padding: 10px 20px;
 margin: 40px 40px;
 }
 
+.cta-button-blue{
+background-color:#585A89;
+border-radius: 4px;
+color: white;
+box-shadow: 1px 1px 1px;
+padding: 10px 20px;
+margin: 40px 40px;
+}
+
+.cta-button-blue:hover{
+  background-color:#585F89;
+  font-style: bold;
+  text-decoration: none;
+}
+
+.cta-button-grey{
+background-color:#E6E6E6;
+border-radius: 4px;
+color: black;
+box-shadow: 1px 1px 1px;
+padding: 10px 20px;
+margin: 40px 40px;
+}
+
+.cta-button-grey:hover{
+  background-color:#E1E6E6;
+  font-style: bold;
+  text-decoration: none;
+}
+
 .cta-button-light{
 border-radius: 4px;
 color: #100874;
@@ -1030,8 +1060,7 @@ margin: 40px 40px;
 }
 
 .cta-button:hover{
-  background-color:#494cf5;
-  color: white;
+  background-color:#fa9b60;
   text-decoration: none;
 }
 
