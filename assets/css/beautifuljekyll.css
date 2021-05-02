@@ -1007,7 +1007,7 @@ pre {
   align-items: center;
 }
 
-.cta-button{
+#cta-button{
 background-color:#fa2b60;
 border-radius: 4px;
 color: white;
@@ -1016,13 +1016,11 @@ padding: 10px 20px;
 margin: 40px 40px;
 }
 
-.cta-button :hover{
-  background-color:#fa2b60;
+#cta-button:hover{
   text-decoration: none;
-  color: white;
 }
 
-.cta-button-blue{
+#cta-button-blue{
 background-color:#585A89;
 border-radius: 4px;
 color: white;
@@ -1031,14 +1029,11 @@ padding: 10px 20px;
 margin: 40px 40px;
 }
 
-.cta-button-blue :hover{
-  background-color:#585B89;
-  font-style: bold;
+#cta-button-blue:hover{
   text-decoration: none;
-  color: white;
 }
 
-.cta-button-grey{
+#cta-button-grey{
 background-color:#E6E6E6;
 border-radius: 4px;
 color: black;
@@ -1047,7 +1042,7 @@ padding: 10px 20px;
 margin: 40px 40px;
 }
 
-.cta-button-grey :hover{
+#cta-button-grey:hover{
   background-color:#E5E6E6;
   font-style: bold;
   text-decoration: none;
